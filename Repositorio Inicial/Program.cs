@@ -10,6 +10,9 @@ namespace Repositorio_Inicial
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Repositorio");
+
+            Console.ReadLine();
         }
     }
 }
